@@ -19,13 +19,6 @@ Project Files
 - "predict_price.py" — Price prediction functionality
 - "Dataset/" — Dataset files
 
-How to Run
-
-1. Install Python.
-2. Install the required Python libraries.
-3. Open the project folder in VS Code.
-4. Run the appropriate Python file.
-
 Student Details
 
 - Name: Nandni Thummar
