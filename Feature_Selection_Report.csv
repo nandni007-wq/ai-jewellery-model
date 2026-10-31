@@ -1,0 +1,11 @@
+Column,Role,Reason
+Price,Dependent Variable (Label),Value to be predicted
+Category.alias,Independent,Type of jewellery affects price
+Product.gender..for.male.female.,Independent,Gender wise pricing
+Main.color,Independent,Property of the item
+Main.metal,Independent,Metal affects price
+Main.gem,Independent,Gem affects price
+Quantity.of.SKU.in.the.order,Independent,Order detail (same value for all rows)
+Order.datetime,Not used in model,Used for Trend Analysis
+Purchased.product.ID,Not used in model,"Identifier, not a property of the item"
+Category.ID,Not used in model,Same information as Category.alias
