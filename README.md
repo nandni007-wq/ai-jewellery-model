@@ -18,7 +18,7 @@ Project Files
 - "trend_analysis.py" — Jewellery trend analysis
 - "predict_price.py" — Price prediction functionality
 - "Dataset/" — Dataset files
-
+  -"Reports" - All graphs 
 Student Details
 
 - Name: Nandni Thummar
