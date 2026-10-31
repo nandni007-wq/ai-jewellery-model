@@ -28,3 +28,9 @@ Student Details
 Project Goal
 
 To predict jewellery prices using Machine Learning and analyze jewellery price trends.
+
+## Features
+- Jewellery price prediction
+- Jewellery trend analysis
+- Data analysis using Python
+- Machine Learning model
